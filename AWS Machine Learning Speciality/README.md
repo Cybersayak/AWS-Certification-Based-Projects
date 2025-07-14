@@ -1,4 +1,4 @@
-# 5 Projects to Master AWS Certified Machine Learning - Specialty (MLS-C01)
+# Projects to Master AWS Certified Machine Learning - Specialty (MLS-C01)
 
 ## Project 1: Real-Time Customer Sentiment Analysis Pipeline
 
